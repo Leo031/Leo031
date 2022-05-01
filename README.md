@@ -6,7 +6,7 @@
 - 📫 This is links for how to reach me..
 - Facebook: https://m.facebook.com/?_rdr
 - Instagram: https://www.instagram.com/leo380_/
-
+- >Linked: https://www.linkedin.com/in/leonard-rous-b393a0239/
 
 <!---
 Leo031/Leo031 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
